@@ -8,6 +8,7 @@
   - `npm run test-expenditure-analysis`
 */
 
+
 function calculateTotalSpentByCategory(transactions) {
   return [];
 }
